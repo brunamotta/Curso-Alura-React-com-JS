@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# Exercício do curso React: desenvolvendo com JavaScript da plataforma Alura
+
+Aprendi nesse curso:
+- Vantagens da utilização do React
+- Implementar componentes reativos
+- Investigar e analisar mensagens de erro
+- Modificar e evoluir componentes de acordo com a necessidade do projeto
+- Prototipar uma aplicação do zero até o deploy
+
+---
+
+.
+
+.
+
+.
+
+.
+
+README gerado automaticamente usando:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
